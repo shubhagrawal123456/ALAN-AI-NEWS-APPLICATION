@@ -2,7 +2,13 @@
 
 ### [Live Site](https://shubhagrawal123456.github.io/ALAN-AI-NEWS-APPLICATION/)
 
-![Voice Controlled React News Application]![Screenshot (48)](https://user-images.githubusercontent.com/49271775/120366117-e43b4900-c32c-11eb-8303-cc3fbb02b59e.png)
+<h2>Voice Controlled React News Application</h2>
+![Screenshot (48)](https://user-images.githubusercontent.com/49271775/120366117-e43b4900-c32c-11eb-8303-cc3fbb02b59e.png)
+
+<h2>After using Voice Chat with help of API it collect Latest News</h2>
+
+![Screenshot (49)](https://user-images.githubusercontent.com/49271775/120366121-e69da300-c32c-11eb-8bd2-40966c7ff907.png)
+
 
 ## Introduction
 This is a code repository for the Project. 
