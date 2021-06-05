@@ -20,6 +20,5 @@ In this we're going to build a Conversational Voice Controlled React News Applic
 ## Setup:
 - run ```npm i && npm start``` to start development server
 
-### Link for ALAN AI Works ( https://studio.alan.app/projects/new_reader_app_youtube/new_reader_app_youtube/ )
 
 
